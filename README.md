@@ -10,79 +10,79 @@
 - **How have attendance rates changed over time across different periods or years for each category or student group?**
 
 **Interpretation:**  
-- From top left chart, Attendance rates show noticeable trends over time, with variations across categories. For example, some groups demonstrate consistent improvement, while others may show declines, signaling the need for targeted interventions.
+- From top left line chart, Attendance rates show noticeable trends over time, with variations across categories. For example, some groups demonstrate consistent improvement, while others may show declines, signaling the need for targeted interventions.
 
 ---
 
-## 2. Grouped Column Chart  
+## 2. Comparison across categories 
 **Question:**  
 - **What is the comparison of a specific metric (e.g., attendance rates or student count) across different categories or student groups over multiple time periods?**
 
 **Insights:**  
-- Attendance rates have remained relatively stable across time periods, with slight differences between categories. Groups requiring attention can be identified through this comparative analysis.
+- From the column chart, Attendance rates have remained relatively stable across time periods, with slight differences between categories. Groups requiring attention can be identified through this comparative analysis.
 
 ---
 
-## 3. Donut Chart  
+## 3. Distribution of Categories by student-groups
 **Question:**  
 - **What is the distribution or proportion of categories, student groups, or metrics (e.g., attendance rates or student counts) within a given time period or district?**
 
 **Insights:**  
-- The majority of students belong to key categories like "Race/Ethnicity" and "Free/Reduced Lunch," with smaller groups such as "Students with Disabilities" representing a smaller share, highlighting specific demographics for targeted programs.
+- From the donut chart, The majority of students belong to key categories like "Race/Ethnicity" and "Free/Reduced Lunch," with smaller groups such as "Students with Disabilities" representing a smaller share, highlighting specific demographics for targeted programs.
 
 ---
 
-## 4. Heatmap  
+## 4. Variation across dimensions
 **Question:**  
 - **How do values (e.g., attendance rates) vary across different dimensions like districts and student groups for a given time period?**
 
 **Insights:**  
-- Attendance rates vary significantly by district and student group. Certain districts or groups with lower attendance rates stand out, emphasizing areas where further analysis and resources are needed.
+- From the heat map, Attendance rates vary significantly by district and student group. Certain districts or groups with lower attendance rates stand out, emphasizing areas where further analysis and resources are needed.
 
 ---
 
-## 5. Scatter Plot  
+## 5. Correlation between numerical variables
 **Question:**  
 - **What is the relationship or correlation between two numerical variables (e.g., student count and attendance rate) across different categories or districts?**
 
 **Insights:**  
-- There appears to be a positive correlation between student count and attendance rates. However, outliers show that smaller districts may struggle with attendance, offering areas for detailed study.
+- From the scatter plot, There appears to be a positive correlation between student count and attendance rates. However, outliers show that smaller districts may struggle with attendance, offering areas for detailed study.
 
 ---
 
-## 6. Word Cloud  
+## 6. Most common word
 **Question:**  
 - **What are the most common or frequent values in a categorical variable (e.g., student groups or districts)?**
 
 **Insights:**  
-- Categories like "White" dominate the dataset, providing context on the demographic distribution. This helps frame where resources might be focused or additional diversity metrics considered.
+- From the word cloud, Categories like "White" dominate the dataset, providing context on the demographic distribution. This helps frame where resources might be focused or additional diversity metrics considered.
 
 ---
 
-## 7. Stacked Column Chart  
+## 7. Breakdown of metrics 
 **Question:**  
 - **How does a metric (e.g., attendance rates) break down into different parts (e.g., student groups) across multiple districts or categories over time?**
 
 **Insights:**  
-- Attendance rates for some groups show consistent performance, while others fluctuate, underlining the need for targeted improvement strategies over specific timeframes.
+- From the column chart, Attendance rates for some groups show consistent performance, while others fluctuate, underlining the need for targeted improvement strategies over specific timeframes.
 
 ---
 
-## 8. Discrete Area Chart  
+## 8. Evolving attendance rates
 **Question:**  
 - **How do the attendance rates for different student groups or categories evolve across discrete time periods (e.g., different school years)?**
 
 **Insights:**  
-- Categories such as "Free/Reduced Lunch" and "Race/Ethnicity" significantly contribute to overall attendance trends, highlighting their importance in attendance-focused strategies.
+- From the area chart, Categories such as "Free/Reduced Lunch" and "Race/Ethnicity" significantly contribute to overall attendance trends, highlighting their importance in attendance-focused strategies.
 
 ---
 
-## 9. Number  
+## 9. Total student count
 **Question:**  
 - **What is the total, average, or other aggregate value for a metric (e.g., total student count, average attendance rate) in a specific period or category?**
 
 **Insights:**  
-- The current student count is 1,037, providing a clear baseline for understanding the overall population in the dataset.
+- Form the number, The current student count is 1,037, providing a clear baseline for understanding the overall population in the dataset.
 
 ---
 
