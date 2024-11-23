@@ -1,4 +1,4 @@
-# Data Visualization Questions, Purpose, and Insights
+# Data Visualization Questions and Insights
 
 ![SDA_Project_School Attendance](https://github.com/user-attachments/assets/3f7330ef-338b-4696-bcac-ec7b99e6c7f5)
 
