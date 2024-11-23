@@ -5,12 +5,12 @@
 
 ---
 
-## 1. Line Chart  
+## 1. Changes in attendance rates
 **Question:**  
 - **How have attendance rates changed over time across different periods or years for each category or student group?**
 
-**Insights:**  
-- Attendance rates show noticeable trends over time, with variations across categories. For example, some groups demonstrate consistent improvement, while others may show declines, signaling the need for targeted interventions.
+**Interpretation:**  
+- From top left chart, Attendance rates show noticeable trends over time, with variations across categories. For example, some groups demonstrate consistent improvement, while others may show declines, signaling the need for targeted interventions.
 
 ---
 
